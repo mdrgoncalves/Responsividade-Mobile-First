@@ -1,0 +1,8 @@
+@keyframes left {
+    from {
+        left: -100vw;
+    }
+    to {
+        left: 0;
+    }
+}
