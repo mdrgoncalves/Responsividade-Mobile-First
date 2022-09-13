@@ -1,2 +1,2 @@
-# Responsividade-Mobile-First
+# Responsividade com Mobile-First
 Projeto criado para aprendizado de responsividade via mobile-first na Alura
